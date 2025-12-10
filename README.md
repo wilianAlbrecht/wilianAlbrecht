@@ -9,6 +9,13 @@ Most of my work is focused on the **OpenFinanceData Ecosystem**, a suite of proj
 
 A collection of open-source projects built to provide structured, unified, and developer-friendly access to financial data.
 
+<details>
+  <summary>🔍 About my projects</summary>
+
+  ... conteúdo ...
+</details>
+
+
 ### 🔹 **OpenFinanceData**
 Unified financial data API providing structured endpoints for:
 - Price information  
