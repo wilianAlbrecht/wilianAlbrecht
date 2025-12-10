@@ -15,30 +15,30 @@ It provides unified data endpoints, calculated indicators, a shared library, and
 <details>
   <summary> About my projects</summary>
 
-    ### 🔹 **OpenFinanceData**
-    Unified financial data API providing structured endpoints for:
-    - Price information  
-    - Fundamentals  
-    - Earnings  
-    - Historical data  
-    - Search & metadata  
-    
-    ### 🔹 **Indicators API**
-    Service that exposes calculated financial indicators:
-    - Valuation metrics  
-    - Dividend metrics  
-    - Profitability and margin indicators  
-    - Growth metrics  
-    - Designed for easy front-end consumption  
-    
-    ### 🔹 **OpenFinanceDataLib** *(in development)*
-    A modular library that centralizes internal clients, response normalizers, and unified data access for the ecosystem.
-    
-    ### 🔹 **OpenFinanceData Front-End**
-    A visualization interface that consumes data from the ecosystem, providing:
-    - Interactive charts  
-    - Financial indicators  
-    - Filters and structured insights
+  ### 🔹 **OpenFinanceData**
+  Unified financial data API providing structured endpoints for:
+  - Price information  
+  - Fundamentals  
+  - Earnings  
+  - Historical data  
+  - Search & metadata  
+  
+  ### 🔹 **Indicators API**
+  Service that exposes calculated financial indicators:
+  - Valuation metrics  
+  - Dividend metrics  
+  - Profitability and margin indicators  
+  - Growth metrics  
+  - Designed for easy front-end consumption  
+  
+  ### 🔹 **OpenFinanceDataLib** *(in development)*
+  A modular library that centralizes internal clients, response normalizers, and unified data access for the ecosystem.
+  
+  ### 🔹 **OpenFinanceData Front-End**
+  A visualization interface that consumes data from the ecosystem, providing:
+  - Interactive charts  
+  - Financial indicators  
+  - Filters and structured insights
     
 </details>
 
