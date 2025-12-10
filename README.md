@@ -13,7 +13,7 @@ It provides unified data endpoints, calculated indicators, a shared library, and
 
 
 <details>
-  <summary> ## Modules of the OpenFinanceData Ecosystem</summary>
+  <summary> Modules of the OpenFinanceData Ecosystem</summary>
 
   ### 🔹 **OpenFinanceData**
   Unified financial data API providing structured endpoints for:
