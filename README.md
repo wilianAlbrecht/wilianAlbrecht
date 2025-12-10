@@ -12,8 +12,10 @@ The **OpenFinanceData Ecosystem** is a collection of open-source tools designed 
 It provides unified data endpoints, calculated indicators, a shared library, and a front-end interface for visualization — forming a modular system that can be expanded or consumed independently.
 
 
+
+
 <details>
-  <summary> Modules of the OpenFinanceData Ecosystem</summary>
+  <summary> 👉 Modules of the OpenFinanceData Ecosystem</summary>
 
   ### 🔹 **OpenFinanceData**
   Unified financial data API providing structured endpoints for:
