@@ -7,39 +7,43 @@ Most of my work is focused on the **OpenFinanceData Ecosystem**, a suite of proj
 
 ## OpenFinanceData Ecosystem
 
-A collection of open-source projects built to provide structured, unified, and developer-friendly access to financial data.
+The **OpenFinanceData Ecosystem** is a collection of open-source tools designed to make financial data easier to access, organize, and work with across different applications.
+
+It provides unified data endpoints, calculated indicators, a shared library, and a front-end interface for visualization — forming a modular system that can be expanded or consumed independently.
+
 
 <details>
-  <summary>🔍 About my projects</summary>
+  <summary> About my projects</summary>
 
-  ... conteúdo ...
+    ### 🔹 **OpenFinanceData**
+    Unified financial data API providing structured endpoints for:
+    - Price information  
+    - Fundamentals  
+    - Earnings  
+    - Historical data  
+    - Search & metadata  
+    
+    ### 🔹 **Indicators API**
+    Service that exposes calculated financial indicators:
+    - Valuation metrics  
+    - Dividend metrics  
+    - Profitability and margin indicators  
+    - Growth metrics  
+    - Designed for easy front-end consumption  
+    
+    ### 🔹 **OpenFinanceDataLib** *(in development)*
+    A modular library that centralizes internal clients, response normalizers, and unified data access for the ecosystem.
+    
+    ### 🔹 **OpenFinanceData Front-End**
+    A visualization interface that consumes data from the ecosystem, providing:
+    - Interactive charts  
+    - Financial indicators  
+    - Filters and structured insights
+    
 </details>
 
 
-### 🔹 **OpenFinanceData**
-Unified financial data API providing structured endpoints for:
-- Price information  
-- Fundamentals  
-- Earnings  
-- Historical data  
-- Search & metadata  
 
-### 🔹 **Indicators API**
-Service that exposes calculated financial indicators:
-- Valuation metrics  
-- Dividend metrics  
-- Profitability and margin indicators  
-- Growth metrics  
-- Designed for easy front-end consumption  
-
-### 🔹 **OpenFinanceDataLib** *(in development)*
-A modular library that centralizes internal clients, response normalizers, and unified data access for the ecosystem.
-
-### 🔹 **OpenFinanceData Front-End**
-A visualization interface that consumes data from the ecosystem, providing:
-- Interactive charts  
-- Financial indicators  
-- Filters and structured insights  
 
 ---
 
