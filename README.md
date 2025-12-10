@@ -5,7 +5,7 @@ Most of my work is focused on the **OpenFinanceData Ecosystem**, a suite of proj
 
 ---
 
-## 🚀 OpenFinanceData Ecosystem
+## OpenFinanceData Ecosystem
 
 A collection of open-source projects built to provide structured, unified, and developer-friendly access to financial data.
 
@@ -36,14 +36,14 @@ A visualization interface that consumes data from the ecosystem, providing:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Java • Spring Boot • REST APIs • Microservices • SQL • Linux • Git**  
 Additional experience with: **JavaScript • React • HTML/CSS • COBOL**
 
 ---
 
-## 🔬 Experiments & Side Projects
+## Experiments & Side Projects
 
 I enjoy creating small experiments and testing random ideas — from data handling to automation, trying API concepts, building tiny tools, or playing with **React** just to see how things behave.
 
@@ -52,7 +52,7 @@ These are usually small tests, prototypes, or quick ideas that help me explore d
 
 ---
 
-## 🤝 Contributions & Collaboration
+## Contributions & Collaboration
 
 I'm open to feedback, collaboration, and discussions about:
 - APIs  
@@ -65,5 +65,5 @@ Feel free to open issues, contribute, or reach out.
 
 ---
 
-## 📧 Contact  
-You can find me on LinkedIn or send a message through GitHub Discussions/Issues.
+## Contact  
+You can find me on [LinkedIn](https://www.linkedin.com/in/wilian-albrecht/) or send a message through GitHub Discussions/Issues.
