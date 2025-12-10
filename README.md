@@ -43,13 +43,12 @@ Additional experience with: **JavaScript • React • HTML/CSS • COBOL**
 
 ---
 
-## 📂 Other Projects
+## 🔬 Experiments & Side Projects
 
-I also experiment with tools, libraries, and utilities related to:
-- Data processing  
-- Automation (Java + Selenium)  
-- API architecture and design  
-- Code organization and clean practices
+I enjoy creating small experiments and testing random ideas — from data handling to automation, trying API concepts, building tiny tools, or playing with **React** just to see how things behave.
+
+These are usually small tests, prototypes, or quick ideas that help me explore different ways of solving problems or understanding how something works. Sometimes they become full projects; sometimes they remain experiments — and I'm fine with both.
+
 
 ---
 
