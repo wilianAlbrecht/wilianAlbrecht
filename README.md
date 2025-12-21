@@ -33,8 +33,11 @@ It provides unified data endpoints, calculated indicators, a shared library, and
   - Growth metrics  
   - Designed for easy front-end consumption  
   
-  ### 🔹 **OpenFinanceDataLib** *(in development)*
-  A modular library that centralizes internal clients, response normalizers, and unified data access for the ecosystem.
+  ### 🔹 **OpenFinanceDataLib**
+  Java library for collecting financial market data:
+  - RAW access to Yahoo Finance data
+  - Direct integration into backend projects
+  - No imposed semantics or data normalization
   
   ### 🔹 **OpenFinanceData Front-End**
   A visualization interface that consumes data from the ecosystem, providing:
