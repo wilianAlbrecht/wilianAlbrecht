@@ -59,27 +59,5 @@ Additional experience with: **JavaScript • React • HTML/CSS • COBOL**
 
 ---
 
-## Experiments & Side Projects
-
-I enjoy creating small experiments and testing random ideas — from data handling to automation, trying API concepts, building tiny tools, or playing with **React** just to see how things behave.
-
-These are usually small tests, prototypes, or quick ideas that help me explore different ways of solving problems or understanding how something works. Sometimes they become full projects; sometimes they remain experiments — and I'm fine with both.
-
-
----
-
-## Contributions & Collaboration
-
-I'm open to feedback, collaboration, and discussions about:
-- APIs  
-- Data engineering  
-- Financial systems  
-- Open-source tooling  
-- Modular architectures  
-
-Feel free to open issues, contribute, or reach out.
-
----
-
 ## Contact  
 You can find me on [LinkedIn](https://www.linkedin.com/in/wilian-albrecht/) or send a message through GitHub Discussions/Issues.
